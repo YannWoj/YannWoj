@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Yann, a 27-year-old web developer from Lille, 
 
 - 🌱 Currently, I'm working with **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, and **Git**.
 - 💻  I use Visual Studio Code as my primary editor for its flexibility and powerful extensions.
-- 🎯 I’m diving into **Laravel**, **Node.js**, and **React** to become a **Full-Stack Developer**.
+- 🎯 I’m diving into **Node.js** and **React** to become a **Full-Stack Developer**.
 
 Feel free to check out my repositories and connect with me if you'd like to collaborate!
 
@@ -42,9 +42,6 @@ I'm proficient in the following technologies and tools:
 I’m always learning new technologies to keep improving my skills.
 
 <p align="left">
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
