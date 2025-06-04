@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm Yann, a 27-year-old web developer from Lille, 
 
 ### 🚀 About Me
 
-- 🌱 Currently, I'm working with **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, and **Git**.
-- 💻  I use Visual Studio Code as my primary editor for its flexibility and powerful extensions.
-- 🎯 I’m diving into **Node.js** and **React** to become a **Full-Stack Developer**.
+- 🌱 I'm usually working with **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, and **Git**.
+- 💻 I use Visual Studio Code as my primary editor for its flexibility and powerful extensions.
+- 🎯 I’m currently diving into **Python** 🐍.
 
 Feel free to check out my repositories and connect with me if you'd like to collaborate!
 
@@ -45,11 +45,8 @@ I'm proficient in the following technologies and tools:
 I’m always learning new technologies to keep improving my skills.
 
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
 
