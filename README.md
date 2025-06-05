@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Yann WOJCIECHOWSKI 👋</h1>
 <h3 align="center">A passionate frontend developer from Lille, France.</h3>
 
-Welcome to my GitHub profile! I'm Yann, a 27-year-old web developer from Lille, France. I'm passionate about building dynamic websites and applications, always exploring new technologies and working on projects that push my limits and inspire my creativity.
+Welcome to my GitHub profile! I'm Yann, a 28-year-old web developer from Lille, France. I'm passionate about building dynamic websites and applications, always exploring new technologies and working on projects that push my limits and inspire my creativity.
 
 ### 🚀 About Me
 
