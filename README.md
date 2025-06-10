@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm Yann, a 28-year-old web developer from Lille, 
 
 ### 🚀 About Me
 
+- 🎯 I’m currently diving into **Python** 🐍.
 - 🌱 I'm usually working with **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, and **Git**.
 - 💻 I use Visual Studio Code as my primary editor for its flexibility and powerful extensions.
-- 🎯 I’m currently diving into **Python** 🐍.
 
 Feel free to check out my repositories and connect with me if you'd like to collaborate!
 
