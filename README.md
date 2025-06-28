@@ -1,13 +1,14 @@
 <h1 align="center">Hello, I'm Yann WOJCIECHOWSKI 👋</h1>
-<h3 align="center">A passionate frontend developer from Lille, France.</h3>
+<h3 align="center">Aspiring Data Analyst & Python Developer based in Lille, France 🇫🇷</h3>
 
-Welcome to my GitHub profile! I'm Yann, a 28-year-old web developer from Lille, France. I'm passionate about building dynamic websites and applications, always exploring new technologies and working on projects that push my limits and inspire my creativity.
+Welcome to my GitHub profile! I'm Yann, a 28-year-old developer from Lille, France.  
+I'm currently focused on becoming a **professional Data Analyst** using Python. 🐍
 
 ### 🚀 About Me
 
-- 🎯 I’m currently diving into **Python** 🐍.
-- 🌱 I'm usually working with **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, and **Git**.
-- 💻 I use Visual Studio Code as my primary editor for its flexibility and powerful extensions.
+- 🎯  Currently mastering **Python for Data Analytics** (pandas, NumPy, matplotlib, seaborn...)  
+- 👨‍💻  Former frontend/web dev now fully committed to the **data side of programming**  
+- 💻  Comfortable with Git, VS Code, and JetBrains tools like **PyCharm** for professional development
 
 Feel free to check out my repositories and connect with me if you'd like to collaborate!
 
