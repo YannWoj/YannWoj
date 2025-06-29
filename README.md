@@ -53,7 +53,7 @@ I’m always learning new technologies to keep improving my skills.
 
 ### 📊 My Stats
 
-Here’s a quick look at the programming languages I use most in my repositories:
+Here’s a quick look at the programming languages I use most in my repositories ⬇️ :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannwoj&layout=compact&hide=html&langs_count=5)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yannwoj&show_icons=true&locale=en" alt="yannwoj" /></p>
