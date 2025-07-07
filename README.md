@@ -41,7 +41,7 @@ I'm proficient in the following technologies and tools:
   </a>
 </p>
 
-### 🔧 What I’m Learning Right Now:
+### 🔧 What I’m Learning Right Now
 
 I’m always learning new technologies to keep improving my skills.
 
