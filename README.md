@@ -43,8 +43,6 @@ I'm proficient in the following technologies and tools:
 
 ### 🔧 What I’m Learning Right Now
 
-I’m always learning new technologies to keep improving my skills.
-
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
