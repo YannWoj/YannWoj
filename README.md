@@ -1,49 +1,76 @@
 <h1 align="center">Hey, I'm Yann 👋</h1>
-<h3 align="center">AI Integration Developer - Lille, France 🇫🇷</h3>
+<h3 align="center">Python Developer · AI Integration · Lille, France 🇫🇷</h3>
 
 <p align="center">
-  I'm Yann, 28, based in Lille. I'm transitioning into AI integration and building real tools to get there.<br/>
-  Currently working on <strong>AgentBrain</strong>, an AI assistant for call center agents, powered by RAG (ChromaDB + LangChain + Groq).
+  Ex-commercial turned Python developer, focused on AI integration.<br/>
+  I learn by building real tools, shipping production-grade code, not just tutorials.
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://linkedin.com/in/yann-w-355062172" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:yannwojciechpro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/YannWoj" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+### 🚀 Currently building
+
+**[AgentBrain](https://github.com/YannWoj/agent_brain)** · production-grade multi-tenant RAG platform
+
+> Streaming cited answers · hybrid retrieval (BM25 + vector + reranker) · RAGAS 0.868 · 416 backend tests
+>
+> Stack: Python · FastAPI · LangChain · ChromaDB · PostgreSQL · Next.js · TypeScript
+
+---
 
 ### 🧑‍💻 Stack
 
 #### AI & Backend
 <p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.langchain.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white" alt="chromadb"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
 </p>
 
-#### Web
+#### Frontend
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
 </p>
 
-<br/>
+#### Tools & AI-assisted dev
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude"/>
+</p>
 
-### 🌍 Connect
-- 📧 [yannwojciechpro@gmail.com](mailto:yannwojciechpro@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/yann-w-355062172)
+---
+
+### 🏆 GitHub trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YannWoj&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="trophies"/>
+</p>
+
+---
+
+### 🎯 Looking for
+
+Open to **Python / AI integration roles** (permanent or contract, on-site or remote).
+
+Let's talk: **yannwojciechpro@gmail.com**
